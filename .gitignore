@@ -1,0 +1,10 @@
+.terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.env
+*.tfvars
+
+*.pem
+*.key
+aws_credentials
